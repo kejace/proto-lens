@@ -20,7 +20,7 @@ dependencies:
   - containers >= 0.5 && < 0.7
   - text == 1.2.*
   - lens-family >= 1.2 && < 2.1
-  - QuickCheck >= 2.8 && < 2.14
+  - QuickCheck >= 2.8 && < 2.15
 
 library:
   source-dirs: src
